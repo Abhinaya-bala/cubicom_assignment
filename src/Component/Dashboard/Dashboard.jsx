@@ -19,11 +19,7 @@ class Dashboard extends Component {
                     <img src="" alt="" />
                 </div>
 
-                <div>
-
-                    <h1>Dashboard</h1>
-
-                </div>
+                <div></div>
 
             </div>);
     }

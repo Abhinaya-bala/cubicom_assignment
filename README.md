@@ -1,7 +1,7 @@
 
 
 
-![Cubicom Assignment][Imgur](https://i.imgur.com/bPTSeej.png)
+![Cubicom Assignment](https://i.imgur.com/bPTSeej.png)
 
 
 

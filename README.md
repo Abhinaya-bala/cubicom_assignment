@@ -4,16 +4,15 @@
 ![Cubicom Assignment](https://i.imgur.com/bPTSeej.png)
 
 
+## Demo
+ https://cubicom.netlify.app/
 
 
 ## About the Project
 
 Source Link:https://xd.adobe.com/view/ff8e0f25-2209-43bd-57a2-d6496aeea16b-89bf/screen/27b1a2e0-7cbc-4e33-bbf7-24e08b61f36c/specs/
 
-## Demo
- https://cubicom.netlify.app/
-
-## Objective
+Objective
 
 1. The objective of this assignment is to achieve the UX as given in the source link for the Login page and Dashboard Page. 
 2. When someone login the website with a valid credential, it has to redirect to the Dashboard page. 

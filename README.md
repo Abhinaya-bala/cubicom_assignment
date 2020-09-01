@@ -13,8 +13,6 @@ Source Link:https://xd.adobe.com/view/ff8e0f25-2209-43bd-57a2-d6496aeea16b-89bf/
 ## Demo
  https://cubicom.netlify.app/
 
-Thank you...!
-
 ## Objective
 
 1. The objective of this assignment is to achieve the UX as given in the source link for the Login page and Dashboard Page. 
@@ -29,7 +27,8 @@ Thank you...!
 4. In Dashboard, User can hide the sidebar using the double arrow and can view it again by clicking with hamburger.
 
 ![Dashboard-sidebar](https://i.imgur.com/1P7xdSy.png)
-![Dashboard Page]](https://i.imgur.com/Ot8YEg0g.png)
+
+![Dashboard Page](https://i.imgur.com/Ot8YEg0g.png)
 
 
 ## Technology used

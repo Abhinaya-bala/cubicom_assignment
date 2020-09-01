@@ -1,8 +1,6 @@
 import React, { Component } from "react";
-
 import './Dashboard.css'
 import logo from '../../Assets/logo.svg';
-
 import dashboardIcon from '../../Assets//sidebar/dashboard.svg'
 import operationsIcon from '../../Assets//sidebar/operations.svg'
 import trackingIcon from '../../Assets//sidebar/tracking.svg'
@@ -11,12 +9,11 @@ import configurationsIcon from '../../Assets//sidebar/configurations.svg'
 import searchIcon from '../../Assets/dashboard/search.svg'
 import calendarIcon from '../../Assets//dashboard/cal.svg'
 import bookingIcon from '../../Assets/dashboard/icon_booking.svg'
-
 import arrowLeft from '../../Assets/pagination/chevron_left.svg'
 import arrowRight from '../../Assets/pagination/chevron_right.svg'
-
 import doubleArrowIcon from '../../Assets/dashboard/doublearrow.svg'
 import hamburgerIcon from '../../Assets/dashboard/hamburger.svg'
+import ofd from '../../Assets/icon_ofd.svg'
 
 
 class Dashboard extends Component {
@@ -95,27 +92,27 @@ class Dashboard extends Component {
                                         </div>
                                     </div>
                                     <div className="card">
-                                        <div className="card-text">121</div>
-                                        <div className="card-icon"><img src={bookingIcon} /></div>
+                                        <div className="card-text">55</div>
+                                        <div className="card-icon"><img src={ofd} /></div>
                                         <div className="card-body">
-                                            <div className="card-title">Booking</div>
-                                            <div className="card-description">No of waybills</div>
+                                            <div className="card-title">OFD</div>
+                                            <div className="card-description">Out For Delivery</div>
                                         </div>
                                     </div>
                                     <div className="card">
-                                        <div className="card-text">121</div>
-                                        <div className="card-icon"><img src={bookingIcon} /></div>
+                                        <div className="card-text">430</div>
+                                        <div className="card-icon"><img src={ofd} /></div>
                                         <div className="card-body">
-                                            <div className="card-title">Booking</div>
-                                            <div className="card-description">No of waybills</div>
+                                            <div className="card-title">DEL</div>
+                                            <div className="card-description">Delivered</div>
                                         </div>
                                     </div>
                                     <div className="card">
-                                        <div className="card-text">121</div>
-                                        <div className="card-icon"><img src={bookingIcon} /></div>
+                                        <div className="card-text">23</div>
+                                        <div className="card-icon"><img src={ofd} /></div>
                                         <div className="card-body">
-                                            <div className="card-title">Booking</div>
-                                            <div className="card-description">No of waybills</div>
+                                            <div className="card-title">UNDEL</div>
+                                            <div className="card-description">UnDelivered</div>
                                         </div>
                                     </div>
                                 </div>

@@ -39,7 +39,7 @@ class Login extends Component {
             this.props.history.push('/dashboard');
         }).catch(() => {
             console.log("Login Failure")
-            alert('Invalid URL')
+            alert('Invalid Credentials')
             this.setState({ email: "", password: "" })
         })
     }

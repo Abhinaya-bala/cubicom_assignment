@@ -62,6 +62,14 @@
   width: 100%;
   padding: 8px 12px;
 }
+.login-form input[type="password"] {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  opacity: 1;
+  width: 100%;
+  padding: 8px 12px;
+}
 .login-form input[type="text"]::placeholder {
   text-align: left;
   font: italic normal 300 14px/17px sans-serif;

@@ -1,3 +1,49 @@
+
+
+
+![Cubicom Assignment][Imgur](https://i.imgur.com/bPTSeej.png)
+
+
+
+
+## About the Project
+
+Source Link:https://xd.adobe.com/view/ff8e0f25-2209-43bd-57a2-d6496aeea16b-89bf/screen/27b1a2e0-7cbc-4e33-bbf7-24e08b61f36c/specs/
+
+## Objective
+
+1. The objective of this assignment is to achieve the UX as given in the source link for the Login page and Dashboard Page. 
+2. When someone login the website with a valid credential, it has to redirect to the Dashboard page. 
+3. In Dashboard the sidebar has to hide and show based user preference.
+
+## How its Work
+
+1. To login, the user has to use the valid credentials( email: "admin" and password: "password"). 
+2. Once user Logged in it will redirect to the Dashboard.
+3. For Invalid credentials, User gets an alert message. 
+4. In Dashboard, User can hide the sidebar using the double arrow and can view it again by clicking with hamburger.
+
+ ![Dashboard-sidebar](https://imgur.com/1P7xdSy)
+ ![Dashboard Page]](https://imgur.com/Ot8YEg0)
+
+
+## Technology used
+
+1. React Js 
+2. CSS
+
+## Dependencies
+1. Axios
+2. React-router-dom
+3. qs 
+
+## Demo
+ https://cubicom.vercel.app/
+
+Thank you...!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
